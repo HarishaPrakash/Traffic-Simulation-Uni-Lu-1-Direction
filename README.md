@@ -1,4 +1,4 @@
-# Traffic-Simulation-Uni-Lu-SingleRobot
+# Traffic-Simulation-Uni-Lu-1-Direction
 
 ## How to run
 
